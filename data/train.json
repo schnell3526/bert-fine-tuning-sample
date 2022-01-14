@@ -1,0 +1,10 @@
+{"id": 0, "label": "d", "agreement": 2, "context": "電池 の 減り は やはり 早い ので 、", "choice_a": "実際 の 半導体 製造 装置 は 実現 し ませ ん", "choice_b": "今回 は 期間 限定 で の お 届け に なり ます", "choice_c": "原子 炉 を 手動 停止 する", "choice_d": "充電 用 に ＵＳＢ ケーブル 買い ます"}
+{"id": 1, "label": "b", "agreement": 4, "context": "味 濃い から", "choice_a": "肌 も 白い", "choice_b": "喉 かわく", "choice_c": "薄めて も 美味しい", "choice_d": "簡単に 雨 が 降る"}
+{"id": 2, "label": "c", "agreement": 3, "context": "１００ 円 だけ に 、 小さくて 軽い 物 が 多い ので 、", "choice_a": "慎重な 比較 検討 が 必要だ", "choice_b": "ハード ケース の 方 が 安心だ", "choice_c": "旅行 に 最適だ", "choice_d": "友達 に も いつも すすめ ます"}
+{"id": 3, "label": "b", "agreement": 2, "context": "Ｇ 大阪 が 勝てば", "choice_a": "明日 の １ 位 グループ トーナメント に 進み ます", "choice_b": "２ 年 連続 ５ 度 目 、 ３ 季 ぶり ２ 度 目 の 優勝 と なる", "choice_c": "朝鮮 人 達 は 目 の 色 を 変える", "choice_d": "猪木 は ４０００万 も の 利益 を 得る こと に なる"}
+{"id": 4, "label": "a", "agreement": 2, "context": "本日 部品 が 全て 揃った ので 、", "choice_a": "完成 検査 を 受け ます", "choice_b": "１ 泊 の 予定 が 大幅に 狂う", "choice_c": "下記 の 料金 が かかり ます", "choice_d": "仕上がり が きれいだ"}
+{"id": 5, "label": "c", "agreement": 3, "context": "米 ドル 円 は クロス 円 全体 に 多大な 影響 を 及ぼす ので 、", "choice_a": "私 達 へ と 視線 を 向ける", "choice_b": "今後 の 展開 が 楽しみだ", "choice_c": "目 が 離せ ませ ん", "choice_d": "連続 成長 度 ボーナス が 入る"}
+{"id": 6, "label": "c", "agreement": 4, "context": "１ 度 勉強 の 仕方 が 分かれば 、", "choice_a": "働き 続ける 方 が ましだ", "choice_b": "態度 を 変える 事 は あり ませ ん", "choice_c": "グングン 成績 は 伸び ます", "choice_d": "感覚 的で は なく 数値 的な 調整 が 可能だ"}
+{"id": 7, "label": "b", "agreement": 3, "context": "ＰＣ に １０ ｃｍ くらい まで 近づか ない と 、", "choice_a": "ほんのり 点灯 時間 の 調整 が 可能だ", "choice_b": "画面 が 見え ない", "choice_c": "大きな 病院 は 行け ない", "choice_d": "デメリット の 方 が おおい"}
+{"id": 8, "label": "d", "agreement": 3, "context": "一 人 病院 に 居る と", "choice_a": "嫌な 顔 は し ない", "choice_b": "私 が 娘 の 面倒 を 見る", "choice_c": "彼 ら は いつも 眠 そうに して いる", "choice_d": "なにかと 気 が 滅入る"}
+{"id": 9, "label": "b", "agreement": 2, "context": "一番 重い ギア の 径 が 小さい ので", "choice_a": "画像 自体 も 縮小 する", "choice_b": "最高 速度 が 上がる", "choice_c": "ファイル 単位 で の 相性 が 良い", "choice_d": "劣化 が 早まり ます"}
